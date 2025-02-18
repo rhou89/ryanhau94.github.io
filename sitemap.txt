@@ -1,5 +1,6 @@
+https://blog.qisland.org/2025/02/17/2023-7-9-Marked-Notes-2/
+https://blog.qisland.org/2023/07/09/2025-2-17-Reflection-with-llm-scientific-development/
 https://blog.qisland.org/9999/12/31/2020-5-11-My-PhD-journal/
-https://blog.qisland.org/2023/07/09/2023-7-9-Marked-Notes-2/
 https://blog.qisland.org/about/index.html
 https://blog.qisland.org/2016/08/04/2016-8-4-Favorite-quotes-cn/
 https://blog.qisland.org/2020/02/02/2020-2-2-Palindromic-day/
@@ -74,3 +75,4 @@ https://blog.qisland.org/categories/Computer-Science/Coding/
 https://blog.qisland.org/categories/Other/
 https://blog.qisland.org/categories/Language/French/
 https://blog.qisland.org/categories/Language/Korean/
+https://blog.qisland.org/categories/Reflection-with-LLM/
